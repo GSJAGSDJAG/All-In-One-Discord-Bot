@@ -28,7 +28,7 @@ module.exports = async (client) => {
                                 },
                                 {
                                     label: `Invite Bot 2`,
-                                    description: `Invite Bot 2 to your server`,
+                                    description: `Invite Bot to your server`,
                                     emoji: "📕",
                                     value: "invite2-linkspanel",
                                 },
